@@ -1,0 +1,15 @@
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/bin/Debug/net9.0/task03
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/bin/Debug/net9.0/task03.deps.json
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/bin/Debug/net9.0/task03.runtimeconfig.json
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/bin/Debug/net9.0/task03.dll
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/bin/Debug/net9.0/task03.pdb
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/obj/Debug/net9.0/task03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/obj/Debug/net9.0/task03.AssemblyInfoInputs.cache
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/obj/Debug/net9.0/task03.AssemblyInfo.cs
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/obj/Debug/net9.0/task03.csproj.CoreCompileInputs.cache
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/obj/Debug/net9.0/task03.sourcelink.json
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/obj/Debug/net9.0/task03.dll
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/obj/Debug/net9.0/refint/task03.dll
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/obj/Debug/net9.0/task03.pdb
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/obj/Debug/net9.0/task03.genruntimeconfig.cache
+/Users/aditirajesh/Desktop/program_files/Presidio/C/task03/obj/Debug/net9.0/ref/task03.dll
