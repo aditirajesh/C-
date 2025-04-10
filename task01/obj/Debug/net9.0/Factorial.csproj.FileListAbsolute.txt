@@ -1,0 +1,15 @@
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/bin/Debug/net9.0/Factorial
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/bin/Debug/net9.0/Factorial.deps.json
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/bin/Debug/net9.0/Factorial.runtimeconfig.json
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/bin/Debug/net9.0/Factorial.dll
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/bin/Debug/net9.0/Factorial.pdb
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/obj/Debug/net9.0/Factorial.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/obj/Debug/net9.0/Factorial.AssemblyInfoInputs.cache
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/obj/Debug/net9.0/Factorial.AssemblyInfo.cs
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/obj/Debug/net9.0/Factorial.csproj.CoreCompileInputs.cache
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/obj/Debug/net9.0/Factorial.sourcelink.json
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/obj/Debug/net9.0/Factorial.dll
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/obj/Debug/net9.0/refint/Factorial.dll
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/obj/Debug/net9.0/Factorial.pdb
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/obj/Debug/net9.0/Factorial.genruntimeconfig.cache
+/Users/aditirajesh/Desktop/program_files/Presidio/C/Factorial/obj/Debug/net9.0/ref/Factorial.dll
